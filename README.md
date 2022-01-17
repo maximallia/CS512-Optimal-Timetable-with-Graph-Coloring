@@ -10,8 +10,12 @@ A classic example for NP completeness problems is the timetable optimization whi
 
 There are many algorithms that can narrow down the close to optimal solution, among them is the graph coloring algorithm.
 
-The goal of this project is to organize a close to optimal timetable schedule that
-accommodates the courses the university must provide in a minimal number of time blocks of the y semester without course A overlapping with the time of course B that is same course but taught by different professor in the same semester.
+Data Input:
+
+Dataset with z number of students with x number of courses (some same course but different professors) in y semester. And each student would also be taking several courses.
+
+Expected Output:
+The goal of this project is to organize a close to optimal timetable schedule thataccommodates the courses the university must provide in a minimal number of time blocks of the y semester without course A overlapping with the time of course B that is same course but taught by different professor in the same semester.
 
 MORE INFO: project_group_01_04 5 project proposal.pdf
 
