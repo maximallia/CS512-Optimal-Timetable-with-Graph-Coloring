@@ -13,5 +13,6 @@ There are many algorithms that can narrow down the close to optimal solution, am
 The goal of this project is to organize a close to optimal timetable schedule that
 accommodates the courses the university must provide in a minimal number of time blocks of the y semester without course A overlapping with the time of course B that is same course but taught by different professor in the same semester.
 
+MORE INFO: project_group_01_04 5 project proposal.pdf
 
 FINAL REPORT: Daniel Ying (dty16), James Fu (jf980), Vincent Taylor (vt152), Xiang Li (xl649)_project_group_01_04 5.pdf
